@@ -7,8 +7,8 @@
 <body>
     <h1>Lab 3: Git Flows, Issue Tracking, and Kanban</h1>
     <h2>North Minzu University & Chiang Mai University</h2>
-    <p>Student Name: 你的姓名</p>
-    <p>Student ID: 你的学号</p>
+    <p>Student Name: TianYujing</p>
+    <p>Student ID: 20242195</p>
 
     <!-- 跳转链接 -->
     <a href="profile.html">My Profile Page</a><br>
