@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>My Profile</title>
+</head>
+<body>
+    <h2>My Personal Profile</h2>
+    <p>Name: 你的姓名</p>
+    <p>Student ID: 你的学号</p>
+    <p>University: North Minzu University</p>
+    <p>Major: Software Engineering</p>
+    <p>Lab: Lab3 - Git Flow & Issue Tracking</p>
+    <a href="index.html">Back to Home</a>
+</body>
+</html>

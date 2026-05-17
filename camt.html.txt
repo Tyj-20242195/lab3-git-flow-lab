@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>CAMT Introduction</title>
+</head>
+<body>
+    <h2>College of Arts, Media and Technology (CAMT)</h2>
+    <p>Chiang Mai University</p>
+    <p>Lab3: Git Flows, Issue Tracking, and Kanban</p>
+    <p>Academic Year 2025 Cooperation Project</p>
+    <a href="index.html">Back to Home</a>
+</body>
+</html>
